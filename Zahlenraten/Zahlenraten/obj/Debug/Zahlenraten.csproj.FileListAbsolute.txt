@@ -1,0 +1,6 @@
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Games\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.exe.config
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Games\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.exe
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Games\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.pdb
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Games\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.csprojResolveAssemblyReference.cache
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Games\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.exe
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Games\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.pdb
